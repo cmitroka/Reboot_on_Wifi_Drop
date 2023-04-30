@@ -1,0 +1,9 @@
+C:\Users\cmitroka\source\repos\NoInternetReboot\bin\Debug\NoInternetReboot.exe
+C:\Users\cmitroka\source\repos\NoInternetReboot\bin\Debug\NoInternetReboot.pdb
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.csproj.AssemblyReference.cache
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.Form1.resources
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.Properties.Resources.resources
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.csproj.GenerateResource.cache
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.csproj.CoreCompileInputs.cache
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.exe
+C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.pdb
