@@ -9,9 +9,10 @@ using System.Windows.Forms;
 
 namespace NoInternetReboot
 {
-    public partial class Form1 : Form
+    public partial class FormMain : Form
     {
-        public Form1()
+        int iCntr = 0;
+        public FormMain()
         {
             InitializeComponent();
         }
@@ -41,6 +42,25 @@ namespace NoInternetReboot
                 result = "";
                 Shutdown.Restart();
                 throw;
+            }
+        }
+        protected override void SetVisibleCore(bool value)
+        {
+            if (!IsHandleCreated && value)
+            {
+                value = false;
+                CreateHandle();
+            }
+            base.SetVisibleCore(value);
+        }
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            iCntr++;
+            if (iCntr>300)
+            {
+                iCntr = 0;
+                DoAction();
             }
         }
     }

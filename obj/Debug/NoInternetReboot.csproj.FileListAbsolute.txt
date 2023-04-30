@@ -7,3 +7,14 @@ C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.cspro
 C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.csproj.CoreCompileInputs.cache
 C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.exe
 C:\Users\cmitroka\source\repos\NoInternetReboot\obj\Debug\NoInternetReboot.pdb
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\bin\Debug\NoInternetReboot.exe.config
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\bin\Debug\NoInternetReboot.exe
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\bin\Debug\NoInternetReboot.pdb
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.csproj.AssemblyReference.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.csproj.SuggestedBindingRedirects.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.FormMain.resources
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.Properties.Resources.resources
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.csproj.GenerateResource.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.csproj.CoreCompileInputs.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.exe
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop\obj\Debug\NoInternetReboot.pdb
