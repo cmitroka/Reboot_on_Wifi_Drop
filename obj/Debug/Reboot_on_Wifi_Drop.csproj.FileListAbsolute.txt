@@ -1,0 +1,11 @@
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\bin\Debug\Reboot_on_Wifi_Drop.exe.config
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\bin\Debug\Reboot_on_Wifi_Drop.exe
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\bin\Debug\Reboot_on_Wifi_Drop.pdb
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.csproj.AssemblyReference.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.csproj.SuggestedBindingRedirects.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.Properties.Resources.resources
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.csproj.GenerateResource.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.csproj.CoreCompileInputs.cache
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.exe
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.pdb
+C:\Users\cmitroka\source\repos\Reboot_on_Wifi_Drop462\Reboot_on_Wifi_Drop\obj\Debug\Reboot_on_Wifi_Drop.FormMain.resources

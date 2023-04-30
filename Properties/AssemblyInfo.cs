@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NoInternetReboot")]
+[assembly: AssemblyTitle("Reboot_on_Wifi_Drop")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NoInternetReboot")]
+[assembly: AssemblyProduct("Reboot_on_Wifi_Drop")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("979c5223-d620-4f47-9697-b2fa2045e8fa")]
+[assembly: Guid("c462f492-7584-4f53-bad5-a8210ef2d50f")]
 
 // Version information for an assembly consists of the following four values:
 //

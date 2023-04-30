@@ -1,13 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
+﻿using NoInternetReboot;
+using System;
 using System.Net;
-using System.Text;
 using System.Windows.Forms;
 
-namespace NoInternetReboot
+namespace Reboot_on_Wifi_Drop
 {
     public partial class FormMain : Form
     {
@@ -57,7 +53,7 @@ namespace NoInternetReboot
         private void timer1_Tick(object sender, EventArgs e)
         {
             iCntr++;
-            if (iCntr>300)
+            if (iCntr > 300)
             {
                 iCntr = 0;
                 DoAction();
